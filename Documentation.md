@@ -102,6 +102,23 @@ Infinite computing has infinite upgrades of cpu, ram, gpu, etc for fractions of 
 6. Operational resiliance: Reduce risk of failures dependig where the services work.
 7. Business agility: Leveraging the cloud native resources that are constantly being developed, you can focus on really the business core strategy that your companies focused on.
 
+## DevOps
+
+1. Continuous Integration
+2. Continuous Delivery
+3. Microservices
+4. Ingrastructure as a code
+5. Monitoring and logging 
+
+### Benefits
+
+- Speed: The development of features, the delivery of software into production, the cycle that people can develop, they can create software faster.
+- Delivery: Being able to deliver features, or bug fixes faster directly to your customer is a key benefit
+- Reliability: Automating things and making them better, constantly improving things with testing, and monitoring, and logging, you're making your system much more reliable
+- Scale: Use Infrastructure as Code to automate the Infrastructure, and also by using smaller micro-services, you're able to scale out into a bigger level
+- Collaboration: Shared ownership, everybody works together to have a shared ownership and accountability
+- Security: One big problem today with many software applications is leaking data, giving that data to other people accidentally. You can actually implement policy as code, and then you can define and track the compliance at scale.
+
 
 
 
