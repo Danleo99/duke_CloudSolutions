@@ -55,7 +55,7 @@ Another component of it is empathy. So can you go into the mind of someone who i
 
 One of the ways you can do this is by building a quarterly schedule that identifies week by week what it is that you'll build. This is a great way to get your ideas out. But basically, in a technical plan for the quarter, you can say week by week what you think will happen. This doesn't mean it will happen, but it gets the ideas flowing and makes you think about what it is that you're going to build.The next thing that I would recommend is to do a weekly demo in your company. It's really easy to get lost in, I need to hit this deadline, and I want to work all night, or you kind of get caught up in the long-term or the short-term. But a cadence of weekly demos is one of the most effective ways to make progress and actually get things done. So if you can't demo every week, you're probably not going to hit your deadline. The other thing that I think is a really key aspect of project management is to look into the word DevOps. So one of the key factors of DevOps is continuous delivery. And it's about being able to always deploy your code, or your code is always in a deployable state. And this also prevents this maybe accident of, there's all these really complex things that I haven't set up. Another key aspect is automated testing. I said this earlier that if it's not automated, it's broken, and that's a really important way to think about testing in your project. 
 
-##AWS Cloud Development
+## AWS Cloud Development
 
 ### Makefile
 
@@ -91,5 +91,18 @@ It's a SaaS-based build server that's available with GitHub and allows you to do
 6. Serverless
 
 Infinite computing has infinite upgrades of cpu, ram, gpu, etc for fractions of the cost of buying this equipment with no upfront cost.
+
+## Cloud Economics 
+
+1. Elasticity: Scaling up or down depending of the necessity
+2. Availability: Healthy response all the time that you need for the application
+3. Self-service: No needed IT for so many problems 
+4. Reduced Complexity: Less points of failure and stress for a company.
+5. Total cost ownership: Study and reduce costs of IT personel, datacenter, bills, etc.
+6. Operational resiliance: Reduce risk of failures dependig where the services work.
+7. Business agility: Leveraging the cloud native resources that are constantly being developed, you can focus on really the business core strategy that your companies focused on.
+
+
+
 
 
