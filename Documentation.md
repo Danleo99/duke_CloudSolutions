@@ -137,3 +137,12 @@ There are 5 simple steps for this:
 
 <img width="598" alt="Screenshot 2023-03-11 134343" src="https://user-images.githubusercontent.com/82685546/224506165-ae3b9f83-48e2-4632-8c85-1973c35ea1e4.png">
 
+## Microservices 
+
+| **Traits**   | **Benefits** |
+|--------------|--------------|
+| Small        | Speed        |
+| Autonomous   | Simplicity   |
+| Specialized  | Map Logic    |
+|              | Reliable     |
+
