@@ -139,10 +139,13 @@ There are 5 simple steps for this:
 
 ## Microservices 
 
+This services are a small abstaction of a bigger project and have a lot of benefits and could also be serverless.
+
 | **Traits**   | **Benefits** |
 |--------------|--------------|
 | Small        | Speed        |
 | Autonomous   | Simplicity   |
 | Specialized  | Map Logic    |
 |              | Reliable     |
+
 
