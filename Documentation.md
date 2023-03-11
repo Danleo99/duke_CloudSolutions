@@ -120,6 +120,18 @@ Infinite computing has infinite upgrades of cpu, ram, gpu, etc for fractions of 
 - Security: One big problem today with many software applications is leaking data, giving that data to other people accidentally. You can actually implement policy as code, and then you can define and track the compliance at scale.
 
 
+## Containers 
 
+Deploy it as a service and it's really the simplest possible way to deploy an application. Also with cloud native, there are many cloud managed Kubernetes services that can take care of things.
 
+Docker is a particular product that's composed of both docker desktop and docker hub. There's a GUI that you can control things. It can interface with Kubernetes and you can actually launch clusters and control them inside of docker. Really it's a local development workflow. You can create your own container registry for private development and all the team can pull the images for fast and secure development.
+
+Kubernetes is a powerful orchestration service for containers that allows you to build highly available solutions as well as solutions that can auto-scale and self heal. It started in 2014, and it was developed by Google. It's a useful tool for containerized application. So really, the idea is, it's a container orchestration system.
+
+There are 5 simple steps for this:
+1. Create a cluster
+2. Deply application
+3. Expose ports
+4. Autimate scaling
+5. Update the application and cluster
 
