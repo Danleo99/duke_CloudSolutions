@@ -148,4 +148,19 @@ This services are a small abstaction of a bigger project and have a lot of benef
 | Specialized  | Map Logic    |
 |              | Reliable     |
 
+## Serverless
+<img width="642" alt="Screenshot 2023-03-12 094851" src="https://user-images.githubusercontent.com/82685546/224548916-de80d7b0-4d45-4cab-b8cb-edb81c0e1847.png">
+
+**AWS**
+
+- **Lambda:** It is a Function as a service and just process the code that you need, no need to worry about the infrastructure.
+- **Step Functions:** Multiple operation in a step by step service.
+
+**GCP**
+
+- **Cloud Run:** Docker container running as a service.
+- **Cloud Funtions:** Funtions or code that run when a trigget is met and message an output.
+
+
+
 
